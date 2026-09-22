@@ -1,0 +1,14 @@
+[
+	{
+		"name": "ebiten",
+		"url": "https://pkg.go.dev/github.com/hajimehoshi/ebiten/v2#section-readme"
+	},
+	{
+		"name": "blog",
+		"url": "https://josecastelli.medium.com/how-im-building-a-2d-game-engine-for-an-mmo-in-golang-from-scratch-e4262775b61d"
+	},
+	{
+		"name": "go-sdl2",
+		"url": "https://github.com/veandco/go-sdl2"
+	}
+]
