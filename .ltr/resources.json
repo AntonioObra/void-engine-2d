@@ -22,5 +22,9 @@
 	{
 		"name": "monovania",
 		"url": "https://codeberg.org/tslocum/monovania"
+	},
+	{
+		"name": "Beginning Game Programming with Go",
+		"url": "https://leanpub.com/read/gameprogramminggolang/chapter-1-ebiten-basics"
 	}
 ]
