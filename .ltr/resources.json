@@ -10,5 +10,17 @@
 	{
 		"name": "go-sdl2",
 		"url": "https://github.com/veandco/go-sdl2"
+	},
+	{
+		"name": "ebiten-cheatsheet",
+		"url": "https://ebitengine.org/en/documents/cheatsheet.html"
+	},
+	{
+		"name": "https://github.com/sedyh/awesome-ebitengine",
+		"url": "https://github.com/sedyh/awesome-ebitengine"
+	},
+	{
+		"name": "monovania",
+		"url": "https://codeberg.org/tslocum/monovania"
 	}
 ]
